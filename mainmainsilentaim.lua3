@@ -1,0 +1,116 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GhoulsLegit/n/main/d"))()
+DaHoodSettings.Prediction = 0.1142154
+Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
+Aiming.HitChance = 400
+
+elseif ping < 114 then
+    getgenv().Prediction = 0.04
+elseif ping < 113 then
+    getgenv().Prediction = 0.08
+elseif ping < 112 then
+    getgenv().Prediction = 0.01
+elseif ping < 110 then
+    getgenv().Prediction = 0.026
+elseif ping < 109 then
+    getgenv().Prediction = 0.026
+elseif ping < 108 then
+    getgenv().Prediction = 0.00816
+elseif ping < 107 then
+    getgenv().Prediction = 0.011
+elseif ping < 106 then
+    getgenv().Prediction = 0.012
+elseif ping < 105 then
+    getgenv().Prediction = 0.012
+elseif ping < 104 then
+    getgenv().Prediction = 0.012
+elseif ping < 103 then9
+    getgenv().Prediction = 0.012
+elseif ping < 102 then
+    getgenv().Prediction = 0.012
+elseif ping < 101 then
+    getgenv().Prediction = 0.121
+elseif ping < 100 then
+    getgenv().Prediction = 0.1437
+elseif ping < 99 then
+    getgenv().Prediction = 0.1437
+elseif ping < 98 then
+    getgenv().Prediction = 0.1437
+elseif ping < 97 then
+    getgenv().Prediction = 0.1437
+elseif ping < 96 then
+    getgenv().Prediction = 0.1437
+elseif ping < 95 then
+    getgenv().Prediction = 0.1437
+elseif ping < 94 then
+    getgenv().Prediction = 0.1437
+elseif ping < 93 then
+    getgenv().Prediction = 0.1437
+elseif ping < 92 then
+    getgenv().Prediction = 0.1437
+elseif ping < 91 then
+    getgenv().Prediction = 0.1437
+elseif ping < 90 then
+    getgenv().Prediction = 0.1437
+elseif ping < 89 then
+    getgenv().Prediction = 0.1437
+elseif ping < 88 then
+    getgenv().Prediction = 0.1437
+elseif ping < 87 then
+    getgenv().Prediction = 0.1437
+elseif ping < 86 then
+    getgenv().Prediction = 0.1437
+elseif ping < 85 then
+    getgenv().Prediction = 0.1437
+elseif ping < 84 then
+    getgenv().Prediction = 0.1437
+elseif ping < 83 then
+    getgenv().Prediction = 0.02
+elseif ping < 82 then
+    getgenv().Prediction = 0.012
+elseif ping < 81 then
+    getgenv().Prediction = 0.010
+elseif ping < 80 then
+    getgenv().Prediction = 0.01225
+elseif ping < 79 then
+    getgenv().Prediction = 0.01225
+elseif ping < 78 then
+    getgenv().Prediction = 0.01225
+elseif ping < 77 then
+    getgenv().Prediction = 0.01225
+elseif ping < 76 then
+    getgenv().Prediction = 0.01225
+elseif ping < 75 then
+    getgenv().Prediction = 0.01225
+elseif ping < 74 then
+    getgenv().Prediction = 0.01225
+elseif ping < 73 then
+    getgenv().Prediction = 0.01225
+elseif ping < 72 then
+    getgenv().Prediction = 0.01225
+elseif ping < 71 then
+    getgenv().Prediction = 0.01225
+elseif ping < 70 then
+    getgenv().Prediction = 0.01225
+elseif ping < 69 then
+    getgenv().Prediction = 0.01225
+elseif ping < 68 then
+    getgenv().Prediction = 0.01225
+elseif ping < 67 then
+    getgenv().Prediction = 0.01225
+elseif ping < 66 then
+    getgenv().Prediction = 0.1142154
+elseif ping < 65 then
+    getgenv().Prediction = 0.014
+elseif ping < 64 then
+    getgenv().Prediction = 0.14
+elseif ping < 63 then
+    getgenv().Prediction = 0.02
+elseif ping < 62 then
+    getgenv().Prediction = 0.009
+elseif ping < 61 then
+    getgenv().Prediction = 0.024
+elseif ping < 60 then
+    getgenv().Prediction = 0.15
+elseif ping < 55 then
+    getgenv().Prediction = 0.015
+	end
